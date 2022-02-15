@@ -17,6 +17,9 @@ int main()
 	}
 
 	cout << sum << endl;
+	cout <<INT16_MAX<< endl;
+
+	return 0;
 	
 }
 
